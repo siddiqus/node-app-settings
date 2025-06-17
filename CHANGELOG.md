@@ -34,3 +34,10 @@
 * update ci ([48ad73d](https://github.com/siddiqus/app-settings/commit/48ad73ddd9cb6349c3423cdb1b4ead33fa0d45cf))
 * update default refresh interval and readme ([180e59d](https://github.com/siddiqus/app-settings/commit/180e59d20c4465353f198b82f6033335ad6604b2))
 
+### [1.0.5](https://github.com/siddiqus/app-settings/compare/1.0.4...1.0.5) (2025-06-17)
+
+
+### Bug Fixes
+
+* export mongodb config type ([4bba13e](https://github.com/siddiqus/app-settings/commit/4bba13e991ff2ced2f8b344e3d4313fcbcaa87ba))
+
